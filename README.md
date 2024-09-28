@@ -1,3 +1,3 @@
 # Pep-Project
 
-### Exoploring Fundemental Analysis Techniques
+### Exploring Fundamental Analysis Techniques
